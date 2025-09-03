@@ -1,7 +1,7 @@
 app = "pdf-ai-suite"
 
 [build]
-  dockerfile = "Dockerfile"
+  builder = "dockerfile"
 
 [env]
   PORT = "8080"
