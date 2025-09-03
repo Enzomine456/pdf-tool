@@ -1,0 +1,8 @@
+flask
+torch
+transformers
+reportlab
+pypdf
+pillow
+markdown
+gunicorn
